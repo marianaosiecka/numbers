@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListFiltererTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-20T17:15:10" hostname="MacBook-Pro-de-Mariana-2.local" time="0.988">
+  <properties/>
+  <testcase name="testPositiveFilter1()" classname="com.aor.numbers.ListFiltererTest" time="0.036"/>
+  <testcase name="testDivisibleByFilter()" classname="com.aor.numbers.ListFiltererTest" time="0.947"/>
+  <testcase name="testPositiveFilter()" classname="com.aor.numbers.ListFiltererTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
